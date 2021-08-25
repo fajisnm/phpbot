@@ -1,9 +1,9 @@
 <?php
 ob_start();
-define('API_KEY','797700669:AAEJaNtG4UDYdMMfdQVjOfWT4VsRrdvm6hg');
-$admin = "505580974"; //admin id
-$kanalimz ="@games_androi"; //kanal useri
-$botim = "@Uzbekcoins_bot";
+define('API_KEY','1934707815:AAEc9ZV7tiU-FYtFrzga1qCXYoFoEfzPbFE');
+$admin = "1613808789"; //admin id
+$kanalimz ="@helloqwo"; //kanal useri
+$botim = "@Moneyboss_rbot";
    function del($UZBEK COINS){
    array_map('unlink', glob("$nomi"));
    }
